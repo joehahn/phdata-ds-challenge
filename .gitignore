@@ -17,3 +17,6 @@ phdata_challenge_joe_hahn.zip
 train.parquet
 test.parquet
 models.joblib
+
+#phData's data, and nobody needs it to read the notebooks
+project_data.csv
