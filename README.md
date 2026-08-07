@@ -2,8 +2,7 @@
 
 Joe Hahn · jmh.datasciences@gmail.com
 
-Who should this client be calling? Three notebooks, a client deck, and an agenda for the
-technical session.
+Three notebooks, a client deck, and an agenda for the technical session.
 
 | file | what it is |
 |---|---|
