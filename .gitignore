@@ -3,6 +3,9 @@
 __pycache__/
 .DS_Store
 
+#PowerPoint lock files
+~$*
+
 #phData's own challenge materials, not mine to publish
 phdata-ds-project-challenge.pdf
 phdata-ds-project-challenge.zip
