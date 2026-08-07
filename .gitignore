@@ -1,0 +1,14 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+#phData's own challenge materials, not mine to publish
+phdata-ds-project-challenge.pdf
+phdata-ds-project-challenge.zip
+
+#the closing slide of the technical session, held back until then
+architecture_slide.pptx
+
+#the submission archive duplicates everything already in this repo
+phdata_challenge_joe_hahn.zip
