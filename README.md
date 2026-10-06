@@ -1,6 +1,6 @@
 # phData data science challenge
 
-Joe Hahn · jmh.datasciences@gmail.com
+Joe Hahn · joe.hahn@jmh-datasciences.com
 
 Three notebooks, a client deck, and an agenda for the technical session.
 
